@@ -1,5 +1,5 @@
 
-<h1 style="text-align:center;"> Ei, me chamo Ruan Carlos</h1>
+<h1> Ei, me chamo Ruan Carlos</h1>
 
 - 🌱 Estudando HTML, CSS e JavaScript.
 - 👯 I’m looking to collaborate on ...
