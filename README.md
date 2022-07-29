@@ -6,7 +6,7 @@
 
 ---
 
-<p align="center">✨ Hey! I'm 24 years old and I'm learning to code with the Let's Code programming school.<p>
+<p align="center">✨ Hey! I'm 25 years old and I'm learning to code with the Let's Code programming school.<p>
  
 <h4 align="center">🛠️ My favorite tools</h4>
 
