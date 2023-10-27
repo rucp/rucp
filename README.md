@@ -1,7 +1,5 @@
 <h3 align="center">👋 Hi, there. I'm Ruan</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/rucp/">LinkedIn</a> •
-  <a href="https://twitter.com/fullstack_rucp">Twitter</a>
 </p>
 
 ---
